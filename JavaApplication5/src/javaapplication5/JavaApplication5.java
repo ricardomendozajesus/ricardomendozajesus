@@ -11,10 +11,11 @@ package javaapplication5;
 public class JavaApplication5 {
 
     /**
-     * @param args the command line arguments
+     * @ahora vamos a agrgar graficos
+     * 
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("esto es un grafico");
     }
     
 }
