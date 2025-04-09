@@ -11,7 +11,7 @@ package javaapplication5;
 public class JavaApplication5 {
 
     /**
-     * @ahora vamos a agrgar graficos
+     * @prueba-javier
      * 
      */
     public static void main(String[] args) {
